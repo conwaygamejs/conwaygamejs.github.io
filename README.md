@@ -94,11 +94,11 @@ Everything is saved automatically to Local Storage and restored on page reload:
 Open `index.html` in any modern web browser. It has no dependencies and needs no build step.
 
 ### Option 2: GitHub Pages
-Fork the [repository](https://github.com/conwaygame/conwaygame.github.io/) and enable GitHub Pages in your repository settings.
+Fork the [repository](https://github.com/conwaygamejs/conwaygamejs.github.io/) and enable GitHub Pages in your repository settings.
 
 ### Option 3: Clone
 ```bash
-git clone https://github.com/conwaygame/conwaygame.github.io.git
+git clone https://github.com/conwaygamejs/conwaygamejs.github.io.git
 cd conwaygame.github.io
 # open index.html in your browser
 ```
