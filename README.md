@@ -99,7 +99,7 @@ Fork the [repository](https://github.com/conwaygamejs/conwaygamejs.github.io/) a
 ### Option 3: Clone
 ```bash
 git clone https://github.com/conwaygamejs/conwaygamejs.github.io.git
-cd conwaygame.github.io
+cd conwaygamejs.github.io
 # open index.html in your browser
 ```
 
