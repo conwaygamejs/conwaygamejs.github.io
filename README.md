@@ -4,7 +4,7 @@ An interactive simulation of Conway's Game of Life, a classic cellular automaton
 
 ## Demo
 
-**Live Demo:** [https://conwaygame.github.io](https://conwaygame.github.io)
+**Live Demo:** [https://conwaygamejs.github.io](https://conwaygamejs.github.io)
 
 ## Features
 
@@ -139,6 +139,6 @@ MIT
 
 ## Links
 
-- **Live Demo:** [https://conwaygame.github.io](https://conwaygame.github.io)
+- **Live Demo:** [https://conwaygamejs.github.io](https://conwaygamejs.github.io)
 - **About the Game of Life:** [Wikipedia – Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - **Pattern encyclopedia:** [LifeWiki](https://conwaylife.com/wiki/)
